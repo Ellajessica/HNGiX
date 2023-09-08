@@ -32,7 +32,7 @@ const formattedUTC = utcTimeFormatted.substring(0, 19) + 'Z';
     utc_time: formattedUTC,
     track: track,
     github_file_url:
-      'https://github.com/Ellajessica/hngix/blob/main/Stage1/server.js',
+      'https://github.com/Ellajessica/hngix/blob/main/stage1/app.js',
     github_repo_url: 'https://github.com/Ellajessica/hngix/tree/main/stage1',
     status_code: 200,
   };
